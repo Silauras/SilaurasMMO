@@ -1,0 +1,15 @@
+package com.silauras.entity;
+
+public enum ArmorBonusType {
+    AGILITY,
+    DARK_DURABILITY,
+    FIRE_DURABILITY,
+    FROST_DURABILITY,
+    HOLY_DURABILITY,
+    INTELLIGENCE,
+    NATURE_DURABILITY,
+    PHYSICAL_DURABILITY,
+    STRENGTH,
+
+
+}
