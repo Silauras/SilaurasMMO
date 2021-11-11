@@ -4,7 +4,6 @@ import com.silauras.entity.character.inventory.item.Item;
 
 import java.util.List;
 
-public class Bag {
-    Integer size;
+public class Equipment {
     List<Item> items;
 }

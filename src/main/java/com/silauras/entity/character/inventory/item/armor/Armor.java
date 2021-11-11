@@ -1,6 +1,6 @@
-package com.silauras.entity.character.inventory.Item.armor;
+package com.silauras.entity.character.inventory.item.armor;
 
-import com.silauras.entity.character.inventory.Item.Item;
+import com.silauras.entity.character.inventory.item.Item;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package com.silauras.entity.character.inventory.Item.wallet;
+package com.silauras.entity.character.inventory.item.wallet;
 
 import java.util.Set;
 

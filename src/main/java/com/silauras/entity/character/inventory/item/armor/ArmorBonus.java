@@ -1,4 +1,4 @@
-package com.silauras.entity.character.inventory.Item.armor;
+package com.silauras.entity.character.inventory.item.armor;
 
 public class ArmorBonus {
     String name;
